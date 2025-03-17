@@ -11,3 +11,8 @@
     - git push origine
 
 - chage 
+
+-change for new brunch
+
+git checkout -b my_brunch_name
+git push origin my_brunch_name
